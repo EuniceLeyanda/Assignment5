@@ -24,7 +24,7 @@ def get_latest_commits(username, repository, token):
 
 # Replace these variables with your GitHub username, repository, and personal access token
 github_username = 'EuniceLeyanda'
-github_repository = 'https://github.com/EuniceLeyanda/Assignment5.git'
+github_repository = 'Assignment5'
 github_token = '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'
 
 # Call the function to get the latest commits
